@@ -1,1 +1,1 @@
-# MyStoreTest
+# MyStore
